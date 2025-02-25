@@ -17,7 +17,7 @@ Clone the repository and open `index.html` in your browser.
 
 ## Live Demo
 
-The live demo can be accessed [here]((https://langtrans.netlify.app/)).
+The live demo can be accessed [here]((https://transla.netlify.app/)).
 
 ## Tests
 
